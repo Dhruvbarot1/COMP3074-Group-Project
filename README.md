@@ -1,6 +1,6 @@
 COMP3074_Group_Project
 
-Group Members
+Group Members Name
 
 Member 1: Dhruv Barot (101415874)
 
